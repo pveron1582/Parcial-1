@@ -12,7 +12,7 @@ namespace Verón_Pablo___Parcial
 {
     public partial class Form1 : Form         
     {
-        //declaracion de matriz zzz
+        //declaracion de matriz
         int[,] matriz;
 
         public Form1()
